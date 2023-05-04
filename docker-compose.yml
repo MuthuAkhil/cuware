@@ -1,0 +1,7 @@
+version: '3'
+services:
+  web:
+    image: <your-docker-hub-username>/<your-image-name>:latest
+    ports:
+      - "80:80"
+
