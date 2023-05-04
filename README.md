@@ -1,4 +1,4 @@
-# cuware
+# cyware
 
 Jenkins Pipeline for Terraform and Docker Deployments
 This Jenkins pipeline deploys a web application on an EC2 instance in AWS using Terraform to create the infrastructure and Docker Compose to build and deploy the application.
